@@ -21,3 +21,22 @@ Ans:
 
       Idea/Vision
         Every ML project starts with a vision. This step is all about idealigation of project. Thinking about the big picture is the motto of this stage.
+
+      Data
+        This stage involves:
+          1. Data collection.
+          2. Data exploration.
+          3. Data processing and overall data management.
+
+      Model
+        This stage involves:
+          1. Model selection
+          2. Model training
+          3. Model tuning
+
+      System:
+        This stage involves:
+          1. Integration
+          2. Launching
+          3. Maintaining
+          4. Modification if required
