@@ -20,4 +20,4 @@ Ans:
     Idea/Vision -> Data -> Model -> System =>(Fig 1: Top level pipeline of a ML project)
 
       Idea/Vision
-        Every ML project starts with a vision. This step is all about idealigation of project.
+        Every ML project starts with a vision. This step is all about idealigation of project. Thinking about the big picture is the motto of this stage.
