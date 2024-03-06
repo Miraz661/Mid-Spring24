@@ -10,7 +10,11 @@ Which problems can be solved using ML.
 
 Importance of ML.
 
-End-to-end ML pipline.
+Draw and explain the complete pipeline of an end-to-end ML project.
 
 Write down some sources of real data.
 
+Ans:
+  Draw and explain the complete pipeline of an end-to-end ML project.
+    .A project pipeline is a defined path of planning, designing and executing a project from start to end. The complete pipeline for a ML project is as follows:-
+    Idea/Vision -> Data -> Model -> System =>(Fig 1: Top level pipeline of a ML project)
