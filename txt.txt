@@ -1,0 +1,16 @@
+Define intelligence in terms of existing school of thought (8).
+
+Difference between mind and brain.
+
+Turing test.
+
+Types of ML with example.
+
+Which problems can be solved using ML.
+
+Importance of ML.
+
+End-to-end ML pipline.
+
+Write down some sources of real data.
+
